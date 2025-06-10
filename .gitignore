@@ -1,3 +1,6 @@
+# fvm flutter version(s)
+.fvm/flutter_sdk
+
 # Miscellaneous
 *.class
 *.log
